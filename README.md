@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados e Inteligência Artificial: Clusters 👩
+# Projeto de Análise de Dados e Inteligência Artificial: Clusters 
 
 Neste projeto, exploramos o conjunto de dados do Big Five Personality Test disponível no Kaggle para identificar padrões e agrupar os participantes em cinco grupos distintos. Utilizando técnicas de machine learning e análise de dados, buscamos compreender melhor os traços de personalidade dos indivíduos e como eles se relacionam uns com os outros.
 
